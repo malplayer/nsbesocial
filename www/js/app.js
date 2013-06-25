@@ -70,7 +70,7 @@ $( document ).on( "mobileinit", function() {
 });
 
 $(document).on('pageinit', "#home", function (event) {
-   getFBInfo();
+  // getFBInfo();
 });
 
 
